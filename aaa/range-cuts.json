@@ -1,0 +1,349 @@
+{
+  "base_step": 0.155,
+  "tail_start": 4.422909443040114,
+  "method": "Full-pool ability ranges, gap snapping, smooth upper-tail widening; computed before popularity selection",
+  "ranges": [
+    {
+      "id": "001",
+      "lower_inclusive": -1.085,
+      "upper_exclusive": -0.91917491,
+      "candidates": 2
+    },
+    {
+      "id": "002",
+      "lower_inclusive": -0.91917491,
+      "upper_exclusive": -0.75931962,
+      "candidates": 3
+    },
+    {
+      "id": "003",
+      "lower_inclusive": -0.75931962,
+      "upper_exclusive": -0.64108014,
+      "candidates": 2
+    },
+    {
+      "id": "004",
+      "lower_inclusive": -0.64108014,
+      "upper_exclusive": -0.44128861,
+      "candidates": 14
+    },
+    {
+      "id": "005",
+      "lower_inclusive": -0.44128861,
+      "upper_exclusive": -0.32838601,
+      "candidates": 12
+    },
+    {
+      "id": "006",
+      "lower_inclusive": -0.32838601,
+      "upper_exclusive": -0.155,
+      "candidates": 38
+    },
+    {
+      "id": "007",
+      "lower_inclusive": -0.155,
+      "upper_exclusive": 0.0,
+      "candidates": 50
+    },
+    {
+      "id": "008",
+      "lower_inclusive": 0.0,
+      "upper_exclusive": 0.155,
+      "candidates": 96
+    },
+    {
+      "id": "009",
+      "lower_inclusive": 0.155,
+      "upper_exclusive": 0.31,
+      "candidates": 140
+    },
+    {
+      "id": "010",
+      "lower_inclusive": 0.31,
+      "upper_exclusive": 0.465,
+      "candidates": 187
+    },
+    {
+      "id": "011",
+      "lower_inclusive": 0.465,
+      "upper_exclusive": 0.62,
+      "candidates": 191
+    },
+    {
+      "id": "012",
+      "lower_inclusive": 0.62,
+      "upper_exclusive": 0.775,
+      "candidates": 238
+    },
+    {
+      "id": "013",
+      "lower_inclusive": 0.775,
+      "upper_exclusive": 0.93,
+      "candidates": 217
+    },
+    {
+      "id": "014",
+      "lower_inclusive": 0.93,
+      "upper_exclusive": 1.085,
+      "candidates": 173
+    },
+    {
+      "id": "015",
+      "lower_inclusive": 1.085,
+      "upper_exclusive": 1.24,
+      "candidates": 228
+    },
+    {
+      "id": "016",
+      "lower_inclusive": 1.24,
+      "upper_exclusive": 1.395,
+      "candidates": 202
+    },
+    {
+      "id": "017",
+      "lower_inclusive": 1.395,
+      "upper_exclusive": 1.55,
+      "candidates": 211
+    },
+    {
+      "id": "018",
+      "lower_inclusive": 1.55,
+      "upper_exclusive": 1.705,
+      "candidates": 160
+    },
+    {
+      "id": "019",
+      "lower_inclusive": 1.705,
+      "upper_exclusive": 1.86,
+      "candidates": 189
+    },
+    {
+      "id": "020",
+      "lower_inclusive": 1.86,
+      "upper_exclusive": 2.015,
+      "candidates": 147
+    },
+    {
+      "id": "021",
+      "lower_inclusive": 2.015,
+      "upper_exclusive": 2.17,
+      "candidates": 146
+    },
+    {
+      "id": "022",
+      "lower_inclusive": 2.17,
+      "upper_exclusive": 2.325,
+      "candidates": 164
+    },
+    {
+      "id": "023",
+      "lower_inclusive": 2.325,
+      "upper_exclusive": 2.48,
+      "candidates": 159
+    },
+    {
+      "id": "024",
+      "lower_inclusive": 2.48,
+      "upper_exclusive": 2.635,
+      "candidates": 117
+    },
+    {
+      "id": "025",
+      "lower_inclusive": 2.635,
+      "upper_exclusive": 2.79,
+      "candidates": 129
+    },
+    {
+      "id": "026",
+      "lower_inclusive": 2.79,
+      "upper_exclusive": 2.92619895,
+      "candidates": 83
+    },
+    {
+      "id": "027",
+      "lower_inclusive": 2.92619895,
+      "upper_exclusive": 3.11817661,
+      "candidates": 113
+    },
+    {
+      "id": "028",
+      "lower_inclusive": 3.11817661,
+      "upper_exclusive": 3.255,
+      "candidates": 75
+    },
+    {
+      "id": "029",
+      "lower_inclusive": 3.255,
+      "upper_exclusive": 3.41,
+      "candidates": 89
+    },
+    {
+      "id": "030",
+      "lower_inclusive": 3.41,
+      "upper_exclusive": 3.565,
+      "candidates": 99
+    },
+    {
+      "id": "031",
+      "lower_inclusive": 3.565,
+      "upper_exclusive": 3.72,
+      "candidates": 95
+    },
+    {
+      "id": "032",
+      "lower_inclusive": 3.72,
+      "upper_exclusive": 3.875,
+      "candidates": 77
+    },
+    {
+      "id": "033",
+      "lower_inclusive": 3.875,
+      "upper_exclusive": 4.03196161,
+      "candidates": 75
+    },
+    {
+      "id": "034",
+      "lower_inclusive": 4.03196161,
+      "upper_exclusive": 4.185,
+      "candidates": 80
+    },
+    {
+      "id": "035",
+      "lower_inclusive": 4.185,
+      "upper_exclusive": 4.34,
+      "candidates": 61
+    },
+    {
+      "id": "036",
+      "lower_inclusive": 4.34,
+      "upper_exclusive": 4.47750487,
+      "candidates": 42
+    },
+    {
+      "id": "037",
+      "lower_inclusive": 4.47750487,
+      "upper_exclusive": 4.66488497,
+      "candidates": 46
+    },
+    {
+      "id": "038",
+      "lower_inclusive": 4.66488497,
+      "upper_exclusive": 4.79983858,
+      "candidates": 25
+    },
+    {
+      "id": "039",
+      "lower_inclusive": 4.79983858,
+      "upper_exclusive": 5.02355982,
+      "candidates": 58
+    },
+    {
+      "id": "040",
+      "lower_inclusive": 5.02355982,
+      "upper_exclusive": 5.20359654,
+      "candidates": 47
+    },
+    {
+      "id": "041",
+      "lower_inclusive": 5.20359654,
+      "upper_exclusive": 5.50388418,
+      "candidates": 57
+    },
+    {
+      "id": "042",
+      "lower_inclusive": 5.50388418,
+      "upper_exclusive": 5.76870455,
+      "candidates": 40
+    },
+    {
+      "id": "043",
+      "lower_inclusive": 5.76870455,
+      "upper_exclusive": 5.95836112,
+      "candidates": 14
+    },
+    {
+      "id": "044",
+      "lower_inclusive": 5.95836112,
+      "upper_exclusive": 6.2658606,
+      "candidates": 33
+    },
+    {
+      "id": "045",
+      "lower_inclusive": 6.2658606,
+      "upper_exclusive": 6.647155,
+      "candidates": 28
+    },
+    {
+      "id": "046",
+      "lower_inclusive": 6.647155,
+      "upper_exclusive": 6.99563381,
+      "candidates": 16
+    },
+    {
+      "id": "047",
+      "lower_inclusive": 6.99563381,
+      "upper_exclusive": 7.31898955,
+      "candidates": 15
+    },
+    {
+      "id": "048",
+      "lower_inclusive": 7.31898955,
+      "upper_exclusive": 7.82651159,
+      "candidates": 17
+    },
+    {
+      "id": "049",
+      "lower_inclusive": 7.82651159,
+      "upper_exclusive": 8.28050949,
+      "candidates": 14
+    },
+    {
+      "id": "050",
+      "lower_inclusive": 8.28050949,
+      "upper_exclusive": 8.87216286,
+      "candidates": 16
+    },
+    {
+      "id": "051",
+      "lower_inclusive": 8.87216286,
+      "upper_exclusive": 9.26126712,
+      "candidates": 5
+    },
+    {
+      "id": "052",
+      "lower_inclusive": 9.26126712,
+      "upper_exclusive": 9.97000027,
+      "candidates": 7
+    },
+    {
+      "id": "053",
+      "lower_inclusive": 10.64087972,
+      "upper_exclusive": 11.50801511,
+      "candidates": 2
+    },
+    {
+      "id": "054",
+      "lower_inclusive": 11.50801511,
+      "upper_exclusive": 12.09364465,
+      "candidates": 1
+    },
+    {
+      "id": "055",
+      "lower_inclusive": 12.09364465,
+      "upper_exclusive": 12.99507697,
+      "candidates": 1
+    },
+    {
+      "id": "056",
+      "lower_inclusive": 12.99507697,
+      "upper_exclusive": 14.00908807,
+      "candidates": 1
+    },
+    {
+      "id": "057",
+      "lower_inclusive": 15.05560268,
+      "upper_exclusive": 16.19944316,
+      "candidates": 1
+    }
+  ]
+}

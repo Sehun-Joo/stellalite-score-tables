@@ -1,0 +1,758 @@
+[
+  {
+    "id": "001",
+    "label": "001 | 0.465–0.620",
+    "lower_inclusive": 0.46499999999999997,
+    "upper_exclusive": 0.62,
+    "count": 1,
+    "candidates": 1,
+    "provisional": 1
+  },
+  {
+    "id": "002",
+    "label": "002 | 0.930–1.094",
+    "lower_inclusive": 0.93,
+    "upper_exclusive": 1.09392307,
+    "count": 3,
+    "candidates": 3,
+    "provisional": 2
+  },
+  {
+    "id": "003",
+    "label": "003 | 1.094–1.209",
+    "lower_inclusive": 1.09392307,
+    "upper_exclusive": 1.20903192,
+    "count": 2,
+    "candidates": 2,
+    "provisional": 0
+  },
+  {
+    "id": "004",
+    "label": "004 | 1.209–1.395",
+    "lower_inclusive": 1.20903192,
+    "upper_exclusive": 1.395,
+    "count": 5,
+    "candidates": 5,
+    "provisional": 1
+  },
+  {
+    "id": "005",
+    "label": "005 | 1.395–1.538",
+    "lower_inclusive": 1.395,
+    "upper_exclusive": 1.53758679,
+    "count": 6,
+    "candidates": 6,
+    "provisional": 3
+  },
+  {
+    "id": "006",
+    "label": "006 | 1.538–1.706",
+    "lower_inclusive": 1.53758679,
+    "upper_exclusive": 1.70646217,
+    "count": 8,
+    "candidates": 8,
+    "provisional": 3
+  },
+  {
+    "id": "007",
+    "label": "007 | 1.706–1.872",
+    "lower_inclusive": 1.70646217,
+    "upper_exclusive": 1.87228541,
+    "count": 9,
+    "candidates": 9,
+    "provisional": 3
+  },
+  {
+    "id": "008",
+    "label": "008 | 1.872–2.015",
+    "lower_inclusive": 1.87228541,
+    "upper_exclusive": 2.015,
+    "count": 17,
+    "candidates": 17,
+    "provisional": 5
+  },
+  {
+    "id": "009",
+    "label": "009 | 2.015–2.184",
+    "lower_inclusive": 2.015,
+    "upper_exclusive": 2.18364773,
+    "count": 20,
+    "candidates": 25,
+    "provisional": 4
+  },
+  {
+    "id": "010",
+    "label": "010 | 2.184–2.334",
+    "lower_inclusive": 2.18364773,
+    "upper_exclusive": 2.33412977,
+    "count": 20,
+    "candidates": 35,
+    "provisional": 1
+  },
+  {
+    "id": "011",
+    "label": "011 | 2.334–2.510",
+    "lower_inclusive": 2.33412977,
+    "upper_exclusive": 2.50990244,
+    "count": 20,
+    "candidates": 60,
+    "provisional": 0
+  },
+  {
+    "id": "012",
+    "label": "012 | 2.510–2.635",
+    "lower_inclusive": 2.50990244,
+    "upper_exclusive": 2.635,
+    "count": 20,
+    "candidates": 56,
+    "provisional": 0
+  },
+  {
+    "id": "013",
+    "label": "013 | 2.635–2.790",
+    "lower_inclusive": 2.635,
+    "upper_exclusive": 2.79,
+    "count": 20,
+    "candidates": 76,
+    "provisional": 0
+  },
+  {
+    "id": "014",
+    "label": "014 | 2.790–2.945",
+    "lower_inclusive": 2.79,
+    "upper_exclusive": 2.945,
+    "count": 20,
+    "candidates": 79,
+    "provisional": 0
+  },
+  {
+    "id": "015",
+    "label": "015 | 2.945–3.100",
+    "lower_inclusive": 2.945,
+    "upper_exclusive": 3.1,
+    "count": 20,
+    "candidates": 117,
+    "provisional": 0
+  },
+  {
+    "id": "016",
+    "label": "016 | 3.100–3.255",
+    "lower_inclusive": 3.1,
+    "upper_exclusive": 3.255,
+    "count": 20,
+    "candidates": 94,
+    "provisional": 0
+  },
+  {
+    "id": "017",
+    "label": "017 | 3.255–3.410",
+    "lower_inclusive": 3.255,
+    "upper_exclusive": 3.41,
+    "count": 20,
+    "candidates": 103,
+    "provisional": 0
+  },
+  {
+    "id": "018",
+    "label": "018 | 3.410–3.565",
+    "lower_inclusive": 3.41,
+    "upper_exclusive": 3.565,
+    "count": 20,
+    "candidates": 139,
+    "provisional": 1
+  },
+  {
+    "id": "019",
+    "label": "019 | 3.565–3.720",
+    "lower_inclusive": 3.565,
+    "upper_exclusive": 3.72,
+    "count": 20,
+    "candidates": 126,
+    "provisional": 0
+  },
+  {
+    "id": "020",
+    "label": "020 | 3.720–3.875",
+    "lower_inclusive": 3.72,
+    "upper_exclusive": 3.875,
+    "count": 20,
+    "candidates": 150,
+    "provisional": 0
+  },
+  {
+    "id": "021",
+    "label": "021 | 3.875–4.030",
+    "lower_inclusive": 3.875,
+    "upper_exclusive": 4.03,
+    "count": 20,
+    "candidates": 131,
+    "provisional": 0
+  },
+  {
+    "id": "022",
+    "label": "022 | 4.030–4.185",
+    "lower_inclusive": 4.03,
+    "upper_exclusive": 4.185,
+    "count": 20,
+    "candidates": 141,
+    "provisional": 0
+  },
+  {
+    "id": "023",
+    "label": "023 | 4.185–4.340",
+    "lower_inclusive": 4.185,
+    "upper_exclusive": 4.34,
+    "count": 20,
+    "candidates": 155,
+    "provisional": 0
+  },
+  {
+    "id": "024",
+    "label": "024 | 4.340–4.495",
+    "lower_inclusive": 4.34,
+    "upper_exclusive": 4.495,
+    "count": 20,
+    "candidates": 124,
+    "provisional": 8
+  },
+  {
+    "id": "025",
+    "label": "025 | 4.495–4.650",
+    "lower_inclusive": 4.495,
+    "upper_exclusive": 4.65,
+    "count": 20,
+    "candidates": 143,
+    "provisional": 10
+  },
+  {
+    "id": "026",
+    "label": "026 | 4.650–4.834",
+    "lower_inclusive": 4.65,
+    "upper_exclusive": 4.83413439,
+    "count": 20,
+    "candidates": 156,
+    "provisional": 11
+  },
+  {
+    "id": "027",
+    "label": "027 | 4.834–4.960",
+    "lower_inclusive": 4.83413439,
+    "upper_exclusive": 4.96,
+    "count": 20,
+    "candidates": 82,
+    "provisional": 17
+  },
+  {
+    "id": "028",
+    "label": "028 | 4.960–5.115",
+    "lower_inclusive": 4.96,
+    "upper_exclusive": 5.115,
+    "count": 20,
+    "candidates": 102,
+    "provisional": 17
+  },
+  {
+    "id": "029",
+    "label": "029 | 5.115–5.270",
+    "lower_inclusive": 5.115,
+    "upper_exclusive": 5.27,
+    "count": 20,
+    "candidates": 104,
+    "provisional": 18
+  },
+  {
+    "id": "030",
+    "label": "030 | 5.270–5.425",
+    "lower_inclusive": 5.27,
+    "upper_exclusive": 5.425,
+    "count": 20,
+    "candidates": 129,
+    "provisional": 18
+  },
+  {
+    "id": "031",
+    "label": "031 | 5.425–5.580",
+    "lower_inclusive": 5.425,
+    "upper_exclusive": 5.58,
+    "count": 20,
+    "candidates": 85,
+    "provisional": 20
+  },
+  {
+    "id": "032",
+    "label": "032 | 5.580–5.735",
+    "lower_inclusive": 5.58,
+    "upper_exclusive": 5.735,
+    "count": 20,
+    "candidates": 86,
+    "provisional": 20
+  },
+  {
+    "id": "033",
+    "label": "033 | 5.735–5.890",
+    "lower_inclusive": 5.735,
+    "upper_exclusive": 5.89,
+    "count": 20,
+    "candidates": 77,
+    "provisional": 20
+  },
+  {
+    "id": "034",
+    "label": "034 | 5.890–6.045",
+    "lower_inclusive": 5.89,
+    "upper_exclusive": 6.045,
+    "count": 20,
+    "candidates": 79,
+    "provisional": 20
+  },
+  {
+    "id": "035",
+    "label": "035 | 6.045–6.200",
+    "lower_inclusive": 6.045,
+    "upper_exclusive": 6.2,
+    "count": 20,
+    "candidates": 77,
+    "provisional": 20
+  },
+  {
+    "id": "036",
+    "label": "036 | 6.200–6.355",
+    "lower_inclusive": 6.2,
+    "upper_exclusive": 6.355,
+    "count": 20,
+    "candidates": 79,
+    "provisional": 20
+  },
+  {
+    "id": "037",
+    "label": "037 | 6.355–6.510",
+    "lower_inclusive": 6.355,
+    "upper_exclusive": 6.51,
+    "count": 20,
+    "candidates": 75,
+    "provisional": 20
+  },
+  {
+    "id": "038",
+    "label": "038 | 6.510–6.652",
+    "lower_inclusive": 6.51,
+    "upper_exclusive": 6.65218634,
+    "count": 20,
+    "candidates": 65,
+    "provisional": 20
+  },
+  {
+    "id": "039",
+    "label": "039 | 6.652–6.820",
+    "lower_inclusive": 6.65218634,
+    "upper_exclusive": 6.82,
+    "count": 20,
+    "candidates": 84,
+    "provisional": 20
+  },
+  {
+    "id": "040",
+    "label": "040 | 6.820–6.975",
+    "lower_inclusive": 6.82,
+    "upper_exclusive": 6.975,
+    "count": 20,
+    "candidates": 61,
+    "provisional": 20
+  },
+  {
+    "id": "041",
+    "label": "041 | 6.975–7.130",
+    "lower_inclusive": 6.975,
+    "upper_exclusive": 7.13,
+    "count": 20,
+    "candidates": 75,
+    "provisional": 20
+  },
+  {
+    "id": "042",
+    "label": "042 | 7.130–7.285",
+    "lower_inclusive": 7.13,
+    "upper_exclusive": 7.285,
+    "count": 20,
+    "candidates": 64,
+    "provisional": 20
+  },
+  {
+    "id": "043",
+    "label": "043 | 7.285–7.432",
+    "lower_inclusive": 7.285,
+    "upper_exclusive": 7.43187726,
+    "count": 20,
+    "candidates": 76,
+    "provisional": 20
+  },
+  {
+    "id": "044",
+    "label": "044 | 7.432–7.607",
+    "lower_inclusive": 7.43187726,
+    "upper_exclusive": 7.60696009,
+    "count": 20,
+    "candidates": 68,
+    "provisional": 20
+  },
+  {
+    "id": "045",
+    "label": "045 | 7.607–7.750",
+    "lower_inclusive": 7.60696009,
+    "upper_exclusive": 7.75,
+    "count": 20,
+    "candidates": 65,
+    "provisional": 20
+  },
+  {
+    "id": "046",
+    "label": "046 | 7.750–7.905",
+    "lower_inclusive": 7.75,
+    "upper_exclusive": 7.905,
+    "count": 20,
+    "candidates": 65,
+    "provisional": 20
+  },
+  {
+    "id": "047",
+    "label": "047 | 7.905–8.060",
+    "lower_inclusive": 7.905,
+    "upper_exclusive": 8.06,
+    "count": 20,
+    "candidates": 53,
+    "provisional": 20
+  },
+  {
+    "id": "048",
+    "label": "048 | 8.060–8.238",
+    "lower_inclusive": 8.06,
+    "upper_exclusive": 8.23803081,
+    "count": 20,
+    "candidates": 66,
+    "provisional": 20
+  },
+  {
+    "id": "049",
+    "label": "049 | 8.238–8.370",
+    "lower_inclusive": 8.23803081,
+    "upper_exclusive": 8.37,
+    "count": 20,
+    "candidates": 45,
+    "provisional": 20
+  },
+  {
+    "id": "050",
+    "label": "050 | 8.370–8.526",
+    "lower_inclusive": 8.37,
+    "upper_exclusive": 8.5255603,
+    "count": 20,
+    "candidates": 54,
+    "provisional": 20
+  },
+  {
+    "id": "051",
+    "label": "051 | 8.526–8.680",
+    "lower_inclusive": 8.5255603,
+    "upper_exclusive": 8.68,
+    "count": 20,
+    "candidates": 43,
+    "provisional": 20
+  },
+  {
+    "id": "052",
+    "label": "052 | 8.680–8.823",
+    "lower_inclusive": 8.68,
+    "upper_exclusive": 8.8234723,
+    "count": 20,
+    "candidates": 37,
+    "provisional": 20
+  },
+  {
+    "id": "053",
+    "label": "053 | 8.823–8.990",
+    "lower_inclusive": 8.8234723,
+    "upper_exclusive": 8.99,
+    "count": 20,
+    "candidates": 55,
+    "provisional": 20
+  },
+  {
+    "id": "054",
+    "label": "054 | 8.990–9.145",
+    "lower_inclusive": 8.99,
+    "upper_exclusive": 9.145,
+    "count": 20,
+    "candidates": 37,
+    "provisional": 20
+  },
+  {
+    "id": "055",
+    "label": "055 | 9.145–9.324",
+    "lower_inclusive": 9.145,
+    "upper_exclusive": 9.32353548,
+    "count": 20,
+    "candidates": 36,
+    "provisional": 20
+  },
+  {
+    "id": "056",
+    "label": "056 | 9.324–9.482",
+    "lower_inclusive": 9.32353548,
+    "upper_exclusive": 9.48177334,
+    "count": 20,
+    "candidates": 30,
+    "provisional": 20
+  },
+  {
+    "id": "057",
+    "label": "057 | 9.482–9.610",
+    "lower_inclusive": 9.48177334,
+    "upper_exclusive": 9.61,
+    "count": 20,
+    "candidates": 29,
+    "provisional": 20
+  },
+  {
+    "id": "058",
+    "label": "058 | 9.610–9.753",
+    "lower_inclusive": 9.61,
+    "upper_exclusive": 9.75296393,
+    "count": 20,
+    "candidates": 26,
+    "provisional": 20
+  },
+  {
+    "id": "059",
+    "label": "059 | 9.753–9.920",
+    "lower_inclusive": 9.75296393,
+    "upper_exclusive": 9.92042876,
+    "count": 20,
+    "candidates": 44,
+    "provisional": 20
+  },
+  {
+    "id": "060",
+    "label": "060 | 9.920–10.064",
+    "lower_inclusive": 9.92042876,
+    "upper_exclusive": 10.06366323,
+    "count": 20,
+    "candidates": 27,
+    "provisional": 20
+  },
+  {
+    "id": "061",
+    "label": "061 | 10.064–10.242",
+    "lower_inclusive": 10.06366323,
+    "upper_exclusive": 10.24220817,
+    "count": 20,
+    "candidates": 20,
+    "provisional": 20
+  },
+  {
+    "id": "062",
+    "label": "062 | 10.242–10.458",
+    "lower_inclusive": 10.24220817,
+    "upper_exclusive": 10.45805921,
+    "count": 20,
+    "candidates": 28,
+    "provisional": 20
+  },
+  {
+    "id": "063",
+    "label": "063 | 10.458–10.690",
+    "lower_inclusive": 10.45805921,
+    "upper_exclusive": 10.69033276,
+    "count": 20,
+    "candidates": 41,
+    "provisional": 20
+  },
+  {
+    "id": "064",
+    "label": "064 | 10.690–10.922",
+    "lower_inclusive": 10.69033276,
+    "upper_exclusive": 10.92198923,
+    "count": 20,
+    "candidates": 29,
+    "provisional": 20
+  },
+  {
+    "id": "065",
+    "label": "065 | 10.922–11.158",
+    "lower_inclusive": 10.92198923,
+    "upper_exclusive": 11.15809309,
+    "count": 20,
+    "candidates": 30,
+    "provisional": 20
+  },
+  {
+    "id": "066",
+    "label": "066 | 11.158–11.482",
+    "lower_inclusive": 11.15809309,
+    "upper_exclusive": 11.48191641,
+    "count": 20,
+    "candidates": 38,
+    "provisional": 20
+  },
+  {
+    "id": "067",
+    "label": "067 | 11.482–11.690",
+    "lower_inclusive": 11.48191641,
+    "upper_exclusive": 11.68995433,
+    "count": 20,
+    "candidates": 21,
+    "provisional": 20
+  },
+  {
+    "id": "068",
+    "label": "068 | 11.690–12.039",
+    "lower_inclusive": 11.68995433,
+    "upper_exclusive": 12.03862607,
+    "count": 20,
+    "candidates": 31,
+    "provisional": 20
+  },
+  {
+    "id": "069",
+    "label": "069 | 12.039–12.405",
+    "lower_inclusive": 12.03862607,
+    "upper_exclusive": 12.4052632,
+    "count": 20,
+    "candidates": 29,
+    "provisional": 20
+  },
+  {
+    "id": "070",
+    "label": "070 | 12.405–12.850",
+    "lower_inclusive": 12.4052632,
+    "upper_exclusive": 12.84954367,
+    "count": 17,
+    "candidates": 17,
+    "provisional": 17
+  },
+  {
+    "id": "071",
+    "label": "071 | 12.850–13.247",
+    "lower_inclusive": 12.84954367,
+    "upper_exclusive": 13.24739647,
+    "count": 12,
+    "candidates": 12,
+    "provisional": 12
+  },
+  {
+    "id": "072",
+    "label": "072 | 13.247–13.813",
+    "lower_inclusive": 13.24739647,
+    "upper_exclusive": 13.81277772,
+    "count": 19,
+    "candidates": 19,
+    "provisional": 19
+  },
+  {
+    "id": "073",
+    "label": "073 | 13.813–14.367",
+    "lower_inclusive": 13.81277772,
+    "upper_exclusive": 14.36730253,
+    "count": 20,
+    "candidates": 24,
+    "provisional": 20
+  },
+  {
+    "id": "074",
+    "label": "074 | 14.367–14.817",
+    "lower_inclusive": 14.36730253,
+    "upper_exclusive": 14.81727135,
+    "count": 20,
+    "candidates": 20,
+    "provisional": 20
+  },
+  {
+    "id": "075",
+    "label": "075 | 14.817–15.583",
+    "lower_inclusive": 14.81727135,
+    "upper_exclusive": 15.58271608,
+    "count": 16,
+    "candidates": 16,
+    "provisional": 16
+  },
+  {
+    "id": "076",
+    "label": "076 | 15.583–16.052",
+    "lower_inclusive": 15.58271608,
+    "upper_exclusive": 16.05151525,
+    "count": 7,
+    "candidates": 7,
+    "provisional": 7
+  },
+  {
+    "id": "077",
+    "label": "077 | 16.052–16.950",
+    "lower_inclusive": 16.05151525,
+    "upper_exclusive": 16.94982429,
+    "count": 9,
+    "candidates": 9,
+    "provisional": 9
+  },
+  {
+    "id": "078",
+    "label": "078 | 16.950–17.634",
+    "lower_inclusive": 16.94982429,
+    "upper_exclusive": 17.63360684,
+    "count": 5,
+    "candidates": 5,
+    "provisional": 5
+  },
+  {
+    "id": "079",
+    "label": "079 | 17.634–18.580",
+    "lower_inclusive": 17.63360684,
+    "upper_exclusive": 18.58013933,
+    "count": 3,
+    "candidates": 3,
+    "provisional": 3
+  },
+  {
+    "id": "080",
+    "label": "080 | 19.549–20.425",
+    "lower_inclusive": 19.54919307,
+    "upper_exclusive": 20.42500641,
+    "count": 3,
+    "candidates": 3,
+    "provisional": 3
+  },
+  {
+    "id": "081",
+    "label": "081 | 20.425–21.766",
+    "lower_inclusive": 20.42500641,
+    "upper_exclusive": 21.76604789,
+    "count": 1,
+    "candidates": 1,
+    "provisional": 1
+  },
+  {
+    "id": "082",
+    "label": "082 | 21.766–23.031",
+    "lower_inclusive": 21.76604789,
+    "upper_exclusive": 23.03139112,
+    "count": 2,
+    "candidates": 2,
+    "provisional": 2
+  },
+  {
+    "id": "083",
+    "label": "083 | 24.414–25.926",
+    "lower_inclusive": 24.41441128,
+    "upper_exclusive": 25.92605231,
+    "count": 1,
+    "candidates": 1,
+    "provisional": 1
+  },
+  {
+    "id": "084",
+    "label": "084 | 27.295–29.384",
+    "lower_inclusive": 27.29543484,
+    "upper_exclusive": 29.3841564,
+    "count": 1,
+    "candidates": 1,
+    "provisional": 1
+  }
+]

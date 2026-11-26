@@ -1,0 +1,46 @@
+{
+  "target": "AAA",
+  "evaluation_records": 269694,
+  "evaluated_players": 3932,
+  "near_target_records": 145106,
+  "overall": {
+    "target_specific": {
+      "log_loss": 0.25805062286372155,
+      "brier": 0.07701247712553988,
+      "actual_rate": 0.3323581540560784,
+      "predicted_rate": 0.32634141256870086
+    },
+    "score_curve": {
+      "log_loss": 0.2688281622860904,
+      "brier": 0.07871087063105696,
+      "actual_rate": 0.3323581540560784,
+      "predicted_rate": 0.3426084332673974
+    },
+    "raw_rate": {
+      "log_loss": 0.5717776843621843,
+      "brier": 0.19570925822710136,
+      "actual_rate": 0.3323581540560784,
+      "predicted_rate": 0.319468824865219
+    }
+  },
+  "near_target": {
+    "target_specific": {
+      "log_loss": 0.41375296296140807,
+      "brier": 0.132057477720162,
+      "actual_rate": 0.41357352556062466,
+      "predicted_rate": 0.39361160479623203
+    },
+    "score_curve": {
+      "log_loss": 0.42581526888089005,
+      "brier": 0.13476353585282952,
+      "actual_rate": 0.41357352556062466,
+      "predicted_rate": 0.4177666741553606
+    },
+    "raw_rate": {
+      "log_loss": 0.7028250809046189,
+      "brier": 0.2506506975989658,
+      "actual_rate": 0.41357352556062466,
+      "predicted_rate": 0.3573541625976444
+    }
+  }
+}

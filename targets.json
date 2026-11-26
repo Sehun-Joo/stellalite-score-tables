@@ -1,0 +1,41 @@
+{
+  "98": {
+    "id": "98",
+    "label": "98%",
+    "numerator": 98,
+    "denominator": 100,
+    "code": "D98",
+    "path": "",
+    "native": "stellalite-98.bmt",
+    "validation": "validation.json",
+    "provisional": 1039,
+    "zero_success": 727,
+    "pool_count": 4548
+  },
+  "aaa": {
+    "id": "aaa",
+    "label": "AAA",
+    "numerator": 8,
+    "denominator": 9,
+    "code": "DAAA",
+    "path": "aaa/",
+    "native": "stellalite-aaa.bmt",
+    "validation": "validation.json",
+    "provisional": 243,
+    "zero_success": 54,
+    "pool_count": 4548
+  },
+  "max-minus": {
+    "id": "max-minus",
+    "label": "MAX−",
+    "numerator": 17,
+    "denominator": 18,
+    "code": "DMAX−",
+    "path": "max-minus/",
+    "native": "stellalite-max-minus.bmt",
+    "validation": "validation.json",
+    "provisional": 587,
+    "zero_success": 253,
+    "pool_count": 4548
+  }
+}
